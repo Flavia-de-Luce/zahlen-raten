@@ -1,4 +1,3 @@
-# TEST
 # Die Aufgabe dieses Scriptes ist eine zufällige Zahl zwischen 0 und 100 zu generieren und dann den Benutzer diese Raten zu lassen.
 # Nach jedem Versuch soll das Programm zudem den Benutzer Informieren ob sein Tipp grüßer oder kleiner war als die gesuchte Zahl.
 
